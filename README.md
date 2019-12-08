@@ -1,4 +1,4 @@
-# Face-Recognition-Attendance-System
+## Face-Recognition-Attendance-System
 Face Recognition Attendance System with Python 3.6 and OpenCV 3.4
 1.Start this project from firstpage.py
 2.Create dataset by clicking create dataset button.
